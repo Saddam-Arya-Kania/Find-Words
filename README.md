@@ -1,5 +1,5 @@
-/*# Find-Words
-Tugas Pemrograman Terstruktur.*/
+/* # Find-Words
+Tugas Pemrograman Terstruktur. */
 #include <iostream>
 #include <cstring>
 #include <cstdlib>   
